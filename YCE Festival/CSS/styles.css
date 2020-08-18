@@ -391,10 +391,3 @@ img::-moz-selection {
 .bg-primary {
     background-color: skyblue;
 }
-.map-fo iframe {
-    min-height: 350px;
-    border: none;
-    background: #e8eaec;
-    padding: 0.4em;
-    width: 100%;
-}
