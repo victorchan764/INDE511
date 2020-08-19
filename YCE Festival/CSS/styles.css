@@ -19,6 +19,8 @@ a:focus {
 
 p {
     font-size: 16px;
+    font-weight: bold;
+    color: black;
     line-height: 1.5;
 }
 
@@ -54,8 +56,8 @@ header .header-content .header-content-inner h1 {
 header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
-    font-weight: 300;
-    color: rgba(255,255,255,.7);
+    font-weight: bold;
+    color: black(255,255,255,.7);
 }
 
 @media(min-width:768px) {
